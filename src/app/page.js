@@ -2,8 +2,13 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1 className="text-4xl font-bold text-center">initial commit</h1>
+    <main className="">
+   <div><div>    <div>{/* logo */}</div>
+    <div> {/* main heading and test */}</div></div>
+    <div>   {/* calculator area */}</div></div>
+
+     
+    
     </main>
   )
 }
